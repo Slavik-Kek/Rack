@@ -16,6 +16,9 @@
         <mxCell id="8NDZjXf6-8VfQBo7rKVa-1" parent="4FuMvW6XE1xJ3GmcoZTA-1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" value="" vertex="1">
           <mxGeometry height="14.8" width="162" x="9" y="50.6" as="geometry" />
         </mxCell>
+        <mxCell id="8NDZjXf6-8VfQBo7rKVa-31" parent="4FuMvW6XE1xJ3GmcoZTA-1" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rackGeneral.shelf;container=1;collapsible=0" value="" vertex="1">
+          <mxGeometry height="14.8" width="162" x="9" y="65.4" as="geometry" />
+        </mxCell>
         <mxCell id="8NDZjXf6-8VfQBo7rKVa-19" parent="1" style="shape=mxgraph.rack.oracle.sunfire_x4500;html=1;labelPosition=right;align=left;spacingLeft=15;dashed=0;shadow=0;fillColor=#ffffff;" value="" vertex="1">
           <mxGeometry height="59.2" width="162" x="-50" y="249.8" as="geometry" />
         </mxCell>
